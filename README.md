@@ -15,6 +15,10 @@ Use this method with to modify the behaviour of a textarea to work as an item li
 $('textarea').textareaToItemList();
 ```
 
+## Requirements
+Luke Morton's JQuery Caret Plugin
+https://github.com/DrPheltRight/jquery-caret
+
 ## Author
 
 Santiago Ruiz García
